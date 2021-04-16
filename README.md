@@ -1,1 +1,2 @@
-# Deploy: https://rslang.tk:3000
+# Deploy: https://rslang.tk
+
